@@ -1,17 +1,17 @@
-### Zomato EDA
+# Zomato EDA
 
 The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment
 of different types of restaurant at different places in Bengaluru, aggregate rating of each restaurant and many more.
 
 ## Breakdown of this notebook:
-Loading the dataset: Load the data and import the libraries.
-Data Cleaning:
-Deleting redundant columns.
+1.) Loading the dataset: Load the data and import the libraries.
+2.) Data Cleaning:
+* Deleting redundant columns.
 Renaming the columns.
 Dropping duplicates.
 Cleaning individual columns.
 Remove the NaN values from the dataset
-#Some Transformations
+#Some Transformations *
 Regression Analysis
 Linear Regression
 Decision Tree Regression
