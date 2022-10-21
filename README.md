@@ -5,6 +5,7 @@ of different types of restaurant at different places in Bengaluru, aggregate rat
 
 ## Breakdown of this notebook:
 1.) Loading the dataset: Load the data and import the libraries.
+
 2.) Data Cleaning:
 * Deleting redundant columns.
 * Renaming the columns.
@@ -12,10 +13,11 @@ of different types of restaurant at different places in Bengaluru, aggregate rat
 * Cleaning individual columns.
 * Remove the NaN values from the dataset 
 * Some Transformations 
-2.) Regression Analysis
-Linear Regression
-Decision Tree Regression
-Random Forest Regression
+
+3.) Regression Analysis
+* Linear Regression
+* Decision Tree Regression
+* Random Forest Regression
 Data Visualization: Using plots to find relations between the features.
 Restaurants delivering Online or not
 Restaurants allowing table booking or not
