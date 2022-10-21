@@ -7,12 +7,12 @@ of different types of restaurant at different places in Bengaluru, aggregate rat
 1.) Loading the dataset: Load the data and import the libraries.
 2.) Data Cleaning:
 * Deleting redundant columns.
-Renaming the columns.
-Dropping duplicates.
-Cleaning individual columns.
-Remove the NaN values from the dataset
-#Some Transformations *
-Regression Analysis
+*Renaming the columns.*
+*Dropping duplicates.*
+*Cleaning individual columns.*
+*Remove the NaN values from the dataset *
+*#Some Transformations *
+2.) Regression Analysis
 Linear Regression
 Decision Tree Regression
 Random Forest Regression
