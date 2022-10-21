@@ -31,3 +31,10 @@ of different types of restaurant at different places in Bengaluru, aggregate rat
 * Cost of Restuarant
 * No. of restaurants in a Location
 * Restaurant typeMost famous restaurant chains in Bengaluru
+
+## **Dataset**
+
+Zomato Bangalore Restaurants - https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
+The data is accurate to that available on the zomato website until 15 March 2019.
+The data was scraped from Zomato in two phase. After going through the structure of the website I found that for each neighborhood there are 6-7 category of restaurants viz. Buffet, Cafes, Delivery, Desserts, Dine-out, Drinks & nightlife, Pubs and bars.
